@@ -2,9 +2,13 @@
 Hi 👋, I'm Maximilian <br>
 A passionate frontend developer and CS student from Germany
 
+---
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ThePapst) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maximilian-pfitzenmaier-82824b235) 
+
+---
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -27,15 +31,19 @@ A passionate frontend developer and CS student from Germany
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MaximilianPfitzenmaier&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaximilianPfitzenmaier&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianPfitzenmaier&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MaximilianPfitzenmaier&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 
 # ✍️ Quote
 Yesterday is history, Tomorrow is a mystery, but Today is a gift. That is why it is called the present <br>
