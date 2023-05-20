@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Maximilian <br>
-A passionate frontend developer and cs Student from Germany
+A passionate frontend developer and CS student from Germany
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ThePapst) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maximilian-pfitzenmaier-82824b235) 
