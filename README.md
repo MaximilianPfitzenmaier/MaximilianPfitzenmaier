@@ -37,8 +37,9 @@ A passionate frontend developer and CS student from Germany
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MaximilianPfitzenmaier&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ✍️ Quote
+# ✍️ Quote
 Yesterday is history, Tomorrow is a mystery, but Today is a gift. That is why it is called the present <br>
 -- Oogway
+
 ---
 [![](https://visitcount.itsvg.in/api?id=MaximilianPfitzenmaier&icon=2&color=12)](https://visitcount.itsvg.in)
