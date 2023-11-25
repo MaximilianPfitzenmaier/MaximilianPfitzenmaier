@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hi 👋, I'm Maximilian <br>
-A passionate frontend developer and CS student from Germany
+Hello There 👋, 
+
+I'm Maximilian, a 29-year-old Frontend Developer from Germany. I pour my heart into crafting dynamic web experiences, infusing love into the code. My expertise lies in Javascript, React, Docker, and PHP, with a particular fondness for the artistry of WordPress development.
 
 ---
 
